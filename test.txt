@@ -1,0 +1,2 @@
+add something
+git remote add origin https://github.com/yvtlin/chef_learning.git
